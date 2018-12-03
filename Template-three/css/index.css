@@ -1,0 +1,32 @@
+
+.primary-sec{
+  width:100%;
+  height:30em;
+}
+.primary-sec img{
+  width:100%;
+  height:35em;
+  position: absolute;
+}
+.custom-navbar{
+  background-color: rgba(0,0,0,0.2)!important;
+}
+
+.texty{
+  position: absolute;
+  color:wheat;
+  top:16em;
+  left:26em;
+  
+  letter-spacing: 0.5em;
+  color:green;
+}
+.lap:hover{
+  background-color:gray;
+  color:white;
+}
+.navigator{
+  color:gray;
+}
+
+
